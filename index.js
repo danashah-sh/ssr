@@ -14,10 +14,10 @@ app.get("/deltagere-1", (req, res) => {
   res.send(`
     <h1>Deltagere</h1>
     <ul>
-      <li>Ola</li>
-      <li>Kari</li>
-      <li>Emma</li>
-      <li>Jonas</li>
+      <li>Siri</li>
+      <li>Dana</li>
+      <li>Victor</li>
+      <li>kevin</li>
     </ul>
     <a href="/">Tilbake til forsiden</a>
   `);
