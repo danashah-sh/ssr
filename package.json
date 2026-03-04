@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danashah-sh/ssr/issues"
   },
-  "homepage": "https://github.com/danashah-sh/ssr#readme"
+  "homepage": "https://github.com/danashah-sh/ssr#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
